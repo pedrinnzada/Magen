@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-lg font-bold mb-3">
-              <img src="/public/img/logo.jpeg" alt="Logo MAGEN" width={250} className="rounded-lg" />
+              <span className="text-primary">MAGEN</span>
             </h3>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Soluções digitais profissionais para impulsionar seu negócio.
