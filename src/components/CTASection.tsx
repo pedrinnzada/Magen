@@ -21,7 +21,7 @@ const CTASection = () => {
               Entre em contato agora e descubra como podemos impulsionar seu negócio com soluções web sob medida.
             </p>
             <a
-              href="https://wa.me/5531992546664?text=Olá!%20Gostaria%20de%20mais%20informações%20e%20fazer%20um%20orçamento%20para%20um%20site.%20Podemos%20conversar%3F"
+              href="https://wa.me/5531995263679?text=Olá!%20Gostaria%20de%20mais%20informações%20e%20fazer%20um%20orçamento%20para%20um%20site.%20Podemos%20conversar%3F"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 h-13 px-10 rounded-xl bg-primary text-primary-foreground font-semibold text-lg hover:bg-primary/90 transition-all duration-200 hover:scale-[1.02]"
